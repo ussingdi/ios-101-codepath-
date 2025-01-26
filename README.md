@@ -32,5 +32,4 @@ This is like WhatsApp but smarter. When you send a message in English, your frie
 
 ---
 
-Feel free to use this README and add more to it if needed!
 
